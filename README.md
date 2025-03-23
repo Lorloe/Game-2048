@@ -1,3 +1,4 @@
+Unity Ver: 2022.3.56f1
 Link Website for playing at a demo: https://sneakypig.itch.io/my-2048
 
 Learning:
